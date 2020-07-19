@@ -1,4 +1,6 @@
 # libraries ----
+# KOD ÜZERİNDE DE BAZI DEĞİŞİKLİKLER YAPTIM
+# 2 SATIR
 library(sf)
 library(tidyverse)
 library(plotly)
